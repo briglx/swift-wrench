@@ -1,0 +1,1 @@
+Enable-AzureMonitoring.ps1
